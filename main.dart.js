@@ -17935,12 +17935,12 @@ _.b=a
 _.c=null},
 S5:function S5(a){this.a=a},
 S4:function S4(){},
-asA(a,b){var s,r,q=null,p=$.NN,o=$.acv,n=A.dd(A.Uy("images/bg2.png",B.d7,q),o,p),m=t.p,l=A.dj(q,A.eI(A.a([new A.Aj(A.jx(200),A.Uy("images/logo.png",B.d7,160),q),new A.G1(new A.a99(b),q,q,q,q,B.B,q,!1,q,B.KY,q)],m),B.M,B.r2,B.E),q,q,B.vH,70,q,B.zJ,p),k=$.NN,j=$.acv
+asA(a,b){var s,r,q=null,p=$.NN,o=$.acv,n=A.dd(A.Uy("assets/bg2.png",B.d7,q),o,p),m=t.p,l=A.dj(q,A.eI(A.a([new A.Aj(A.jx(200),A.Uy("assets/logo.png",B.d7,160),q),new A.G1(new A.a99(b),q,q,q,q,B.B,q,!1,q,B.KQ,q)],m),B.M,B.r2,B.E),q,q,B.vH,70,q,B.zJ,p),k=$.NN,j=$.acv
 j.toString
 s=A.jx(10)
 k.toString
 r=A.ZQ()
-s=A.pa(B.bz,A.a([B.KX,A.dj(q,A.afr(A.ir(A.a([$.NX().a.length!==0?A.ai_(a):A.dd(B.wZ,j/1.2,q)],m),B.M,B.aR,B.E),r),q,q,new A.bF(q,q,q,s,q,q,B.R),k/3,q,q,k/4)],m),B.ek,B.aI,B.d4,0,40)
+s=A.pa(B.bz,A.a([B.KY,A.dj(q,A.afr(A.ir(A.a([$.NX().a.length!==0?A.ai_(a):A.dd(B.wZ,j/1.2,q)],m),B.M,B.aR,B.E),r),q,q,new A.bF(q,q,q,s,q,q,B.R),k/3,q,q,k/4)],m),B.ek,B.aI,B.d4,0,40)
 r=$.a9J
 return A.afm(A.dP(B.Y,A.a([n,A.dd(A.pa(B.bz,A.a([l,A.dj(q,A.pa(B.M9,A.a([s,A.afV($.a9n,"",!1,r,$.a9S,$.a9T,$.ac7)],m),B.ek,B.a6,B.d4,0,0),q,q,q,j-65,q,B.zG,k)],m),B.kd,B.a6,B.bz,0,0),o,p)],m),B.X),q)},
 ai_(a){var s,r,q,p=null,o=$.NX(),n=o.a.length,m=J.nN(n,t.l)
@@ -58008,11 +58008,11 @@ I(a){var s,r,q,p,o=null,n=t.w
 this.e=a.a4(n).f.a.a
 n=this.d=a.a4(n).f.a.b
 s=this.e
-r=A.dd(A.Uy("assets/images/bg1.png",B.d7,o),n,s)
+r=A.dd(A.Uy("assets/sun-tornado.png",B.d7,o),n,s)
 s.toString
 q=s>715&&n>550?new A.E(s/4,60):new A.E(s/1.2,45)
 p=t.p
-return A.dd(A.dP(B.Y,A.a([r,A.cm(A.pa(B.d4,A.a([B.KV,A.ae_(B.KW,new A.S5(a),A.aaz(o,o,o,o,o,o,o,o,o,o,o,q,o,B.eZ,o,new A.cO(A.jx(15),B.n),o,o,o,o))],p),B.ek,B.aI,B.bz,0,75),o,o)],p),B.X),n,s)}}
+return A.dd(A.dP(B.Y,A.a([r,A.cm(A.pa(B.d4,A.a([B.KU,A.ae_(B.KX,new A.S5(a),A.aaz(o,o,o,o,o,o,o,o,o,o,o,q,o,B.eZ,o,new A.cO(A.jx(15),B.n),o,o,o,o))],p),B.ek,B.aI,B.bz,0,75),o,o)],p),B.X),n,s)}}
 A.S5.prototype={
 $0(){A.aeL(this.a,"/HomePage",new A.S4(),t.X)},
 $S:0}
@@ -58126,7 +58126,7 @@ b=t.p
 s=A.a([],b)
 if(d.a.x){r=d.d
 q=d.e
-B.b.G(s,A.a([A.dd(A.Uy("assets/images/bg3.png",B.d7,c),q,r)],b))}if(!d.a.x)B.b.G(s,A.a([],b))
+B.b.G(s,A.a([A.dd(A.Uy("assets/bg3.png",B.d7,c),q,r)],b))}if(!d.a.x)B.b.G(s,A.a([],b))
 r=d.a.x
 q=r?B.zD:B.zH
 p=A.jx(10)
@@ -61815,8 +61815,8 @@ B.Q=new A.hT(4,"start")
 B.uA=new A.hT(5,"end")
 B.Ch=A.a(s([B.k_,B.uz,B.cY,B.k0,B.Q,B.uA]),A.aa("u<hT>"))
 B.fn=A.a(s([!0,!1]),t.sj)
-B.KT=new A.dR("DADOS USU\xc1RIOS",null,B.uL,null,null,null)
-B.wX=new A.l8(B.w,null,null,B.KT,null)
+B.KV=new A.dR("DADOS USU\xc1RIOS",null,B.uL,null,null,null)
+B.wX=new A.l8(B.w,null,null,B.KV,null)
 B.Ci=A.a(s([B.wX]),t.p)
 B.Cu=A.a(s([0,4,12,1,5,13,3,7,15]),t.t)
 B.aj=new A.e(4294967304)
@@ -62710,14 +62710,14 @@ B.ET=new A.tQ(0,null)
 B.EU=new A.tR(null)
 B.ci=new A.aM(0,0,0,5)
 B.cZ=new A.o(!0,B.eY,null,null,null,null,10,B.bh,null,null,null,null,null,null,null,null,null,B.e,null,null,null,null,null,null,null,null)
-B.KU=new A.dR("Rank",null,B.cZ,B.Q,null,null)
-B.rj=new A.el(B.ci,B.KU,null)
-B.KR=new A.dR("Regi\xe3o",null,B.cZ,B.Q,null,null)
-B.EV=new A.el(B.ci,B.KR,null)
-B.KS=new A.dR("Nome",null,B.cZ,B.Q,null,null)
-B.EW=new A.el(B.ci,B.KS,null)
-B.KQ=new A.dR("Freq",null,B.cZ,B.Q,null,null)
-B.EX=new A.el(B.ci,B.KQ,null)
+B.KW=new A.dR("Rank",null,B.cZ,B.Q,null,null)
+B.rj=new A.el(B.ci,B.KW,null)
+B.KS=new A.dR("Regi\xe3o",null,B.cZ,B.Q,null,null)
+B.EV=new A.el(B.ci,B.KS,null)
+B.KT=new A.dR("Nome",null,B.cZ,B.Q,null,null)
+B.EW=new A.el(B.ci,B.KT,null)
+B.KR=new A.dR("Freq",null,B.cZ,B.Q,null,null)
+B.EX=new A.el(B.ci,B.KR,null)
 B.KP=new A.dR("G\xeanero",null,B.cZ,B.Q,null,null)
 B.EY=new A.el(B.ci,B.KP,null)
 B.al=new A.tW(0,"fill")
@@ -63218,13 +63218,13 @@ B.JY=new A.o(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.JB=new A.o(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.KL=new A.dB(B.Jl,B.Ku,B.Kd,B.I5,B.K5,B.Je,B.Ky,B.Iw,B.IY,B.K0,B.I0,B.Kf,B.K3,B.JY,B.JB)
 B.KM=new A.vN(1,"longestLine")
+B.HZ=new A.o(!0,B.be,null,null,null,null,16,B.bh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.KQ=new A.dR("Voltar",null,B.HZ,null,null,null)
 B.uK=new A.o(!0,B.eY,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.KV=new A.dR("Interface Api_rest Desenvolvimento Flutter\n\n 8h de desenvolvimento,",null,B.uK,B.cY,null,null)
-B.KW=new A.dR("Inciar",null,B.uK,null,null,null)
-B.HZ=new A.o(!0,B.be,null,null,null,null,18,B.lF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.KX=new A.dR("USU\xc1RIOS",null,B.HZ,null,null,null)
-B.I_=new A.o(!0,B.be,null,null,null,null,16,B.bh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.KY=new A.dR("Sair",null,B.I_,null,null,null)
+B.KU=new A.dR("Interface Api_rest Desenvolvimento Flutter\n\n \ud83d\udcbb",null,B.uK,B.cY,null,null)
+B.KX=new A.dR("Inciar",null,B.uK,null,null,null)
+B.I_=new A.o(!0,B.be,null,null,null,null,18,B.lF,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.KY=new A.dR("USU\xc1RIOS",null,B.I_,null,null,null)
 B.Nt=new A.Gb(0,"system")
 B.KZ=new A.vO(null)
 B.ee=new A.vQ(0,"clamp")
